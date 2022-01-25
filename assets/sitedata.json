@@ -1,0 +1,30 @@
+
+
+
+{
+  "pages": [
+    {
+      
+      
+      
+      "content": "\n",
+      "url": "/404.html"
+    },{
+      
+      
+      
+      "content": "\n",
+      "url": "/offline.html"
+    },{
+      
+      "title": "My Active Projects",
+      "description": "The list of projects that I am working on for the current moment.  Most of them are related to the IDENA Human-centric Blockchain. Those scripts and services help you to make your entry point into that blockchain way faster then the standard manual installation and setup. Run the script, sit back and relax the rest of the job it will do it for you.\n",
+      "content": "\n",
+      "url": "/projects/"
+    }
+  ], 
+  "documents": [
+    
+  ]
+}
+
