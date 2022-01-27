@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.1.2--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2022-01-27T06:22:32-05:00--sw/";
+const CONTENT_CACHE = "content--2022-01-27T14:46:43-05:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -305,15 +305,19 @@ const STATIC_FILES = [
   /**/"/assets/icomoon/fonts/icomoon.woff",
   /**/"/assets/icomoon/selection.json",
   /**/"/assets/icomoon/style.css",
+  /**/"/assets/icons/android-chrome-192x192.png",
+  /**/"/assets/icons/android-chrome-512x512.png",
+  /**/"/assets/icons/apple-touch-icon.png",
+  /**/"/assets/icons/browserconfig.xml",
+  /**/"/assets/icons/favicon-16x16.png",
+  /**/"/assets/icons/favicon-32x32.png",
   /**/"/assets/icons/favicon.ico",
-  /**/"/assets/icons/icon-128x128.png",
-  /**/"/assets/icons/icon-144x144.png",
-  /**/"/assets/icons/icon-152x152.png",
-  /**/"/assets/icons/icon-192x192.png",
-  /**/"/assets/icons/icon-384x384.png",
-  /**/"/assets/icons/icon-512x512.png",
-  /**/"/assets/icons/icon-72x72.png",
-  /**/"/assets/icons/icon-96x96.png",
+  /**/"/assets/icons/mstile-150x150.png",
+  /**/"/assets/icons/mstile-310x150.png",
+  /**/"/assets/icons/mstile-310x310.png",
+  /**/"/assets/icons/mstile-70x70.png",
+  /**/"/assets/icons/safari-pinned-tab.svg",
+  /**/"/assets/icons/site.webmanifest",
   /**/"/assets/img/logo.png",
   /**/"/assets/img/sidebar-bg.jpg",
   /**/"/assets/img/swipe.svg",
