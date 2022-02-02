@@ -11,8 +11,14 @@
       "url": "/404.html"
     },{
       
+      "title": "LTraveler — Quiet spot with some useful IDENA scripts",
+      "description": "\n  \n    \n      IDENA Runner - Quick start\n      Idena Blockchain Fast Sync: The highroad to IDENA mining ⚒️ success\n    \n  \n\n",
+      "content": "All scripts has been written as a creative process of understanding how the IDENA infrstracture works and all of them are used in the working projects of my shared and personal nodes. If you are donwloading the stable version of any of my scripts there is a pretty high chance to get convenient tool that could save your time in your own IDENA deployment.\n\n🔭 The projects that I am currently working on\n\n\n  Idena Runner — Bash Script implementation of the idena-go node application.\n  Idena Blockchain Bootstrap — Idena Blockchain daily snapshot implementation for fast synch.\n\n\n📫 Contacts and Thankfulness\n\n\n  💬 Telegram: https://t.me/ltrvlr\n  IDNA Cold 👛: 0xf041640788910fc89a211cd5bcbf518f4f14d831\n  🖥️ Personalized Shared Node Server: https://t.me/ltrvlr\n\n\n",
+      "url": "/"
+    },{
       
-      
+      "title": "LTraveler: Looks like something went wrong with the connection.",
+      "description": "I couldn’t establish connection with the server. Please check your Internet Connection and try again later.\n",
       "content": "\n",
       "url": "/offline.html"
     },{
@@ -24,7 +30,29 @@
     }
   ], 
   "documents": [
-    
+    {
+      "image": {"path":"/assets/img/projects/idena_runner.webp","srcset":{"1920w":"/assets/img/projects/idena_runner.webp","960w":"/assets/img/projects/idena_runner@0,5x.webp","480w":"/assets/img/projects/idena_runner@0,25x.webp"}},
+      "title": "Idena Runner",
+      "date": "2016-01-01 00:00:00 -0500",
+      "description": "Bash Script implementation of the Idena network node installation wizard with the possibility to install multiple idena-go instances (1 user — 1 instance)\n",
+      "content": "\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "projects",
+      "url": "/projects/idena-runner/"
+    },{
+      "image": {"path":"/assets/img/projects/idena_blockchain.jpg","srcset":{"1920w":"/assets/img/projects/idena_blockchain.jpg","960w":"/assets/img/projects/idena_blockchain@0,5x.jpg","480w":"/assets/img/projects/idena_blockchain@0,25x.jpg"}},
+      "title": "Idena Blockchain Snapshot",
+      "date": "2020-06-01 00:00:00 -0500",
+      "description": "IDENA blockchain snapshot (updated daily) for fast synchronization of the Idena network node (idena-go).\n",
+      "content": "The snapshot will help you to sync your Idena Node in a matter of minutes.\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "projects",
+      "url": "/projects/idena-fast-sync/"
+    }
   ]
 }
 
