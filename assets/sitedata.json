@@ -31,20 +31,9 @@
   ], 
   "documents": [
     {
-      "image": {"path":"/assets/img/projects/idena_runner.webp","srcset":{"1920w":"/assets/img/projects/idena_runner.webp","960w":"/assets/img/projects/idena_runner@0,5x.webp","480w":"/assets/img/projects/idena_runner@0,25x.webp"}},
-      "title": "Idena Runner",
-      "date": "2016-01-01 00:00:00 -0500",
-      "description": "Bash Script implementation of the Idena network node installation wizard with the possibility to install multiple idena-go instances (1 user — 1 instance)\n",
-      "content": "\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "projects",
-      "url": "/projects/idena-runner/"
-    },{
       "image": {"path":"/assets/img/projects/idena_blockchain.jpg","srcset":{"1920w":"/assets/img/projects/idena_blockchain.jpg","960w":"/assets/img/projects/idena_blockchain@0,5x.jpg","480w":"/assets/img/projects/idena_blockchain@0,25x.jpg"}},
-      "title": "Idena Blockchain Snapshot",
-      "date": "2020-06-01 00:00:00 -0500",
+      "title": "Idena Blockchain Snapshot - Fast Sync of your IDENA Node",
+      "date": "2022-02-02 00:00:00 -0500",
       "description": "IDENA blockchain snapshot (updated daily) for fast synchronization of the Idena network node (idena-go).\n",
       "content": "The snapshot will help you to sync your Idena Node in a matter of minutes.\n\n\n\n",
       "categories": [],
@@ -52,6 +41,17 @@
       
       "collection": "projects",
       "url": "/projects/idena-fast-sync/"
+    },{
+      "image": {"path":"/assets/img/projects/idena_runner.webp","srcset":{"1920w":"/assets/img/projects/idena_runner.webp","960w":"/assets/img/projects/idena_runner@0,5x.webp","480w":"/assets/img/projects/idena_runner@0,25x.webp"}},
+      "title": "Idena Runner —  Quick start of idena-go installation with possibility to run your shared node ",
+      "date": "2022-02-02 00:00:00 -0500",
+      "description": "Bash Script implementation of the Idena network node installation wizard with the possibility to install multiple idena-go instances (1 user — 1 instance)\n",
+      "content": "\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "projects",
+      "url": "/projects/idena-runner/"
     }
   ]
 }
