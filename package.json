@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "re-template-tag": "^2.0.1"
+  },
+  "devDependencies": {
+    "css-minimizer-webpack-plugin": "^4.0.0",
+    "webpack": "^5.74.0"
+  }
+}
